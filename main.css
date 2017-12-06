@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+#LakersHistoryHeader {
+    text-align: center;
+    color:black;
+}
+
+=======
+>>>>>>> d0355c46efbf5b2206ca1fb4a7ef2618a135b43f
+nav a {
+    display: inline;
+    position: relative;
+    left:950px;
+    color:purple;
+}
+
+<<<<<<< HEAD
+#logo {
+    position: relative;
+    right: 350px;
+    
+}
+
+h4 {
+    color:purple;
+    text-decoration: underline;
+}
+li {
+    font-size: small;
+    margin:10px;
+=======
+h4 {
+    text-align: center;
+}
+
+.description {
+    position: relative;
+    left: 300px;
+}
+
+p {
+    text-align: center;
+}
+#logo {
+    position: relative;
+    right: 350px;
+    
+>>>>>>> d0355c46efbf5b2206ca1fb4a7ef2618a135b43f
+}
